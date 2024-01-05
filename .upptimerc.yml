@@ -15,6 +15,7 @@ status-website:
   name: A Kipl Studio Status
   introTitle: "Welcome to **A Kipl Studio** Status page!"
   introMessage: This status page will show issues with A Kipl Studio Online Services
+  navbar:
     - title: Status
       href: /
 
