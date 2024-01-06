@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.kitki30.tk
   # baseUrl: /KiplStudioStatus
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/A-Kipl-Studio/Service-Status/master/assets/kipllogo.png
   name: A Kipl Studio Status
   introTitle: "Welcome to **A Kipl Studio** Status page!"
   introMessage: This status page will show issues with A Kipl Studio Online Services
