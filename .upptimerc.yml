@@ -3,6 +3,8 @@ owner: A-Kipl-Studio
 repo: Service-Status
 
 sites:
+  - name: The Earth War Website
+    url: www.kitki30.tk
   - name: The Earth War API
     url: api.kitki30.tk
 
