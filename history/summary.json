@@ -1,22 +1,22 @@
 [
   {
     "name": "The Earth War API",
-    "url": "https://api.kitki30.tk",
-    "icon": "https://icons.duckduckgo.com/ip3/api.kitki30.tk.ico",
+    "url": "api.kitki30.tk",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "the-earth-war-api",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 86,
-    "timeDay": 86,
-    "timeWeek": 86,
-    "timeMonth": 86,
-    "timeYear": 86,
+    "time": 174,
+    "timeDay": 295,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {
-      "2024-01-06": 59,
+      "2024-01-06": 958,
       "2024-01-05": 663
     }
   }
