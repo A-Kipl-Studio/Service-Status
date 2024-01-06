@@ -4,7 +4,7 @@ repo: KiplStudioStatus
 
 sites:
   - name: The Earth War API
-    url: https://api.kitki30.tk
+    url: api.kitki30.tk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
