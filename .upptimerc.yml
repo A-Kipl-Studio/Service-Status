@@ -1,7 +1,7 @@
 # Change these first
 owner: A-Kipl-Studio
 repo: Service-Status
-
+runner: "[self-hosted, linux, ARM64]"
 sites:
   - name: The Earth War Website
     url: https://www.kitki30.tk
